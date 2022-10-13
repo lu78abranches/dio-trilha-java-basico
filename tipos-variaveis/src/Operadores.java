@@ -2,6 +2,9 @@ import javax.swing.event.SwingPropertyChangeSupport;
 
 public class Operadores {
     public static void main(String[] args) {
+
+        // concatenação
+
         String nomeCompleto = "LINGUAGEM" + "JAVA";
 
         System.out.println(nomeCompleto);
@@ -28,5 +31,6 @@ public class Operadores {
         concatenacao = "1" + (1 + 1 + 1);
 
         System.out.println(concatenacao);
+
     }
 }
