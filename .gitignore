@@ -2,3 +2,7 @@ tipos-variaveis/.vscode/settings.json
 
 sistema-smart-tv/.vscode/settings.json
 calculadora/.vscode/settings.json
+java-terminal/.vscode/settings.json
+java-terminal/bin/App.class
+java-terminal/bin/MinhaClasse.class
+java-terminal/.vscode/launch.json
