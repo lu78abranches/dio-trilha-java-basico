@@ -4,7 +4,7 @@
 
 import java.util.Scanner;
 
-public class Main {
+public class Desafio2 {
     public static void main(String[] args) {
         int A, N;
         int somaMultiplos = 0;
